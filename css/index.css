@@ -229,16 +229,19 @@ footer p{
 
 	
 header{
+	width:100%;
 	display: flex;
 	justify-content: center;
 	flex-wrap: wrap-reverse;
 	}
 
 header nav{
+	width:100%;
 	display: flex;
 	margin:20px 0;
 }
 header nav a{
+	width:100%;
 	color: gray;
 	text-decoration: none;
 	margin-right: 66px;

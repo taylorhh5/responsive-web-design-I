@@ -211,7 +211,8 @@ footer p{
 
 
 	.container {
-		width :800px;
+		max-width :800px;
+		width:100%;
 		margin:0 auto ;
 		padding:500;
 		
@@ -259,7 +260,8 @@ header nav a{
 
 
 		.container {
-			width :500px;
+			max-width :500px;
+			width:100%;
 			margin:0 auto ;
 			
 			}
